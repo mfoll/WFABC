@@ -2,7 +2,7 @@
 
 This program, WFABC estimates parameters of a Wright-Fisher model with selection using allele frequencies measured at different time points and possibly different loci.
 
-Read the [documentation](WFABC manual.pdf) and the related publications:
+Read the [documentation](<WFABC manual.pdf>) and the related publications: 
 
 Influenza virus drug resistance: a time-sampled population genetics perspective.
 Foll M, Poh YP, Renzette N, Ferrer-Admetlla A, Bank C, Shim H, Malaspinas AS, Ewing G, Liu P, Wegmann D, Caffrey DR, Zeldovich KB, Bolon DN, Wang JP, Kowalik TF, Schiffer CA, Finberg RW, Jensen JD.
